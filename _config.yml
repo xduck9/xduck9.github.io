@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 0xduck blog
-subtitle: '0xduck good luck'
-description: '0xduck website,have fun'
+title: xduck
+subtitle: 'xduck good luck'
+description: 'xduck website,have fun'
 keywords:
-author: 0xduck
+author: xduck
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://xduck.ggff.net
+url: https://xduck.qzz.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
